@@ -1,3 +1,9 @@
+# Feedback
+Score: 85
+
+* Most of this was cut/pasted from the project, yet not indicated as a direct quote
+* It isn't really in an evolution stage if there is no release. It will never be "officially" released.
+
 0 A.D. 
 =========
 
