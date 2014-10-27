@@ -1,0 +1,3 @@
+* PDGs do not include objects
+* For Feature 2, the Entity class is too weak. First of all, it needs a better name.
+* Remember, these all have to be design changes
