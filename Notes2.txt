@@ -1,0 +1,5 @@
+Score: 93
+
+* PDG is on statements, not objects
+* Not clear how, with issue 2, there is a change in the design
+* Third improvement has no affect on the design
